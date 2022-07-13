@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jaxon-Delgado
-- 👀 I’m interested in software development and Artificial Intelligence
-- 🌱 I’m currently learning Java Data Structures and Algorithms
-- 💞️ I’m looking to collaborate on Python machine learning and game development
+- 👀 I’m interested in Cybersecurity and Penetration Testing
+- 🌱 I’m currently learning IT Foundations
+- 💞️ I’m looking to collaborate on Resume Building projects!
 - 📫 You can reach me through my email jaxondelgado11@gmail.com
 
 <!---
