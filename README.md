@@ -1,4 +1,4 @@
-{}(./logo-banner.png)
+{}(logo-banner.png)
 
 - 👋 Hi, I’m @Jaxon-Delgado
 - 👀 I’m interested in Cybersecurity and Penetration Testing
